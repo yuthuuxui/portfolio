@@ -1,0 +1,40 @@
+.leftsidetop{
+    display: flex;
+}
+.leftsidetop h2{
+    color: white;
+    font-weight: bold;
+}
+.addclientbutton a{
+    text-decoration: none;
+}
+
+.formborder{
+    border: none;
+}
+.formeditbutton{
+    padding: 10px 15px;
+    border: none;
+    background-color: #F4A62A;
+    border-radius: 10px;
+    color: white;
+
+}
+.formsavebutton{
+    padding: 10px 15px;
+    border: none;
+    background-color: green;
+    margin: 0 10px;
+    border-radius: 10px;
+    color: white;
+
+}
+.formdeletebutton{
+    padding: 10px 15px;
+    border: none;
+    background-color: #FA3F19;
+    border-radius: 10px;
+    color: white;
+
+
+}
