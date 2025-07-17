@@ -3854,7 +3854,6 @@ nav.navbar.validnavs.nav-full-width {
 	nav.navbar.validnavs.navbar-box {
 		position: absolute;
 		left: 0;
-		top: 30px;
 		width: 100%;
 		background: transparent;
 	}
